@@ -117,7 +117,7 @@ int main()
 					cout << "Rezult: \n";
 				}
 				cout << "1: ";
-				QU.Show();	
+				QU.Show();	 
 				QU.Extract();
 				cout << "2: ";	
 				QU2.Show();
